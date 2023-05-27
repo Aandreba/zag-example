@@ -1,5 +1,5 @@
 const std = @import("std");
-const rc = @import("rzig");
+const rc = @import("zigrc");
 
 const Thread = std.Thread;
 const Mutex = Thread.Mutex;
